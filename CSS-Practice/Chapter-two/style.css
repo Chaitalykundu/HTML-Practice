@@ -1,0 +1,16 @@
+/* margin and padding remove the side space */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red{
+    background-color: rgb(243, 51, 8);
+    color: white
+}
+
+.green{
+    background: green;
+    color: hsl(5,90%,70%);
+
+}
